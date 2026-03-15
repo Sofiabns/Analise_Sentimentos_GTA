@@ -115,9 +115,9 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) par
 
 ## 👤 Autor
 
-Sofia Bueris Netto de Souza – RM565818
-Vinícius Adrian Siqueira de Oliveira – RM564962
-Augusto Oliveira Codo de Sousa – RM562080
-Felipe de Oliveira Cabral – RM561720
-Gabriel Tonelli Avelino Dos Santos – RM564705
+- Sofia Bueris Netto de Souza – RM565818
+- Vinícius Adrian Siqueira de Oliveira – RM564962
+- Augusto Oliveira Codo de Sousa – RM562080
+- Felipe de Oliveira Cabral – RM561720
+- Gabriel Tonelli Avelino Dos Santos – RM564705
 
