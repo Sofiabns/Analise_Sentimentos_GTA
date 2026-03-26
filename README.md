@@ -29,7 +29,7 @@ AnaliseSentimentoGTA/
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/AnaliseSentimentoGTA.git
+git clone https://github.com/Sofiabns/AnaliseSentimentoGTA.git
 cd AnaliseSentimentoGTA
 ```
 
